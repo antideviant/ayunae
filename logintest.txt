@@ -1,0 +1,7 @@
+Admin Login:
+admin
+12345
+
+User Login:
+syaza123@gmail.com
+syaza123
